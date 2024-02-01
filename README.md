@@ -12,7 +12,7 @@
 ![image](https://github.com/noshiobec/British_Airyways_data-science_job_simulation/assets/96450822/5547396f-9ea1-40ec-baa6-def29595e629)
 
 ### Introduction:
-This task involves gathering and analysing customer feedback sourced from the web. The aim is to extract valuable insights from this dataset to enhance strategic decision-making within the organization and elevate customer satisfaction levels. The Python codes and presentation of findings can be found in the GitHub files in this repository. 
+This task involves gathering and analysing customer feedback sourced from the web. The aim is to extract valuable insights from this dataset to enhance strategic decision-making within the organization and elevate customer satisfaction levels. ** The Python codes and presentation of findings can be found in the GitHub files in this repository.**
 
 ### Scraping Data from Skytrax Reviews:
 In this phase, data was extracted from Skytrax reviews, specifically focusing on feedback related to British Airways. Utilizing Python code provided in the Jupyter Notebook, a comprehensive dataset was compiled, encompassing various customer sentiments and experiences with the airline. This process involved extracting text-based reviews, ratings, and other relevant information from Skytrax, ensuring a robust and diverse dataset for analysis.
