@@ -12,7 +12,8 @@
 ![image](https://github.com/noshiobec/British_Airyways_data-science_job_simulation/assets/96450822/5547396f-9ea1-40ec-baa6-def29595e629)
 
 ### Introduction:
-This task involves gathering and analysing customer feedback sourced from the web. The aim is to extract valuable insights from this dataset to enhance strategic decision-making within the organization and elevate customer satisfaction levels. **The Python codes and presentation of findings can be found in the GitHub files in this repository.**
+This task involves gathering and analysing customer feedback sourced from the web. The aim is to extract valuable insights from this dataset to enhance strategic decision-making within the organization and elevate customer satisfaction levels. <p style="color: darkblue;"><strong>The Python codes and presentation of findings can be found in the GitHub files in this repository.</strong></p>
+
 
 ### Scraping Data from Skytrax Reviews:
 In this phase, data was extracted from Skytrax reviews, specifically focusing on feedback related to British Airways. Utilizing Python code provided in the Jupyter Notebook, a comprehensive dataset was compiled, encompassing various customer sentiments and experiences with the airline. This process involved extracting text-based reviews, ratings, and other relevant information from Skytrax, ensuring a robust and diverse dataset for analysis.
@@ -38,7 +39,8 @@ Following the data collection phase, the dataset underwent thorough cleaning and
 ![image](https://github.com/noshiobec/British_Airyways_data-science_job_simulation/assets/96450822/9be39b6b-9890-41cc-8fd0-cfabe89e3837)
 
 ### Introduction:
-This task involves delving into the realm of predictive modelling to anticipate customer buying behaviour, which is crucial for British Airways to acquire customers before they embark on their holidays. Leveraging data and predictive models, the objective is to understand the intricate patterns and factors influencing customers' purchasing decisions, ultimately enhancing proactive customer acquisition strategies.
+This task involves delving into the realm of predictive modelling to anticipate customer buying behaviour, which is crucial for British Airways to acquire customers before they embark on their holidays. Leveraging data and predictive models, the objective is to understand the intricate patterns and factors influencing customers' purchasing decisions, ultimately enhancing proactive customer acquisition strategies. <p style="color: darkblue;"><strong>The Python codes and presentation of findings can be found in the GitHub files in this repository.</strong></p>
+
 
 ### Exploring and Preparing the Dataset:
 During this phase, the provided customer booking data is meticulously explored and prepared, laying the foundation for building a high-quality predictive model. Through thorough examination and manipulation of the dataset, key features and variables that significantly influence customer buying behaviour are identified. Additionally, consideration is given to creating new features to augment the predictive power of the model, thereby setting the stage for robust predictive analytics.
