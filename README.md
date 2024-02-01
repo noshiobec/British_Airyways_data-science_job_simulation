@@ -12,14 +12,15 @@
 ![image](https://github.com/noshiobec/British_Airyways_data-science_job_simulation/assets/96450822/5547396f-9ea1-40ec-baa6-def29595e629)
 
 ### Introduction:
-This task involves gathering and analysing customer feedback sourced from the web. The aim is to extract valuable insights from this dataset to enhance strategic decision-making within the organization and elevate customer satisfaction levels. <p style="color: darkblue;"><strong>The Python codes and presentation of findings can be found in the GitHub files in this repository.</strong></p>
+<p style="text-align: justify;">This task involves gathering and analysing customer feedback sourced from the web. The aim is to extract valuable insights from this dataset to enhance strategic decision-making within the organization and elevate customer satisfaction levels.</p>
+<p style="color: darkblue;"><strong>The Python codes and presentation of findings can be found in the GitHub files in this repository.</strong></p>
 
 
 ### Scraping Data from Skytrax Reviews:
-In this phase, data was extracted from Skytrax reviews, specifically focusing on feedback related to British Airways. Utilizing Python code provided in the Jupyter Notebook, a comprehensive dataset was compiled, encompassing various customer sentiments and experiences with the airline. This process involved extracting text-based reviews, ratings, and other relevant information from Skytrax, ensuring a robust and diverse dataset for analysis.
+<p style="text-align: justify;">In this phase, data was extracted from Skytrax reviews, specifically focusing on feedback related to British Airways. Utilizing Python code provided in the Jupyter Notebook, a comprehensive dataset was compiled, encompassing various customer sentiments and experiences with the airline. This process involved extracting text-based reviews, ratings, and other relevant information from Skytrax, ensuring a robust and diverse dataset for analysis.</p>
 
 ### Cleaning and Analyzing Customer Feedback Data:
-Following the data collection phase, the dataset underwent thorough cleaning and analysis. Measures were taken to ensure data quality and integrity, including removing duplicates, handling missing values, and standardizing text formats. Subsequently, advanced analytical techniques such as topic modelling, sentiment analysis, and word clouds were applied to delve into the dataset. These analyses revealed valuable insights into customer sentiments, preferences, and pain points, providing actionable information for enhancing the airline's services and addressing customer needs effectively.
+<p style="text-align: justify;">Following the data collection phase, the dataset underwent thorough cleaning and analysis. Measures were taken to ensure data quality and integrity, including removing duplicates, handling missing values, and standardizing text formats. Subsequently, advanced analytical techniques such as topic modelling, sentiment analysis, and word clouds were applied to delve into the dataset. These analyses revealed valuable insights into customer sentiments, preferences, and pain points, providing actionable information for enhancing the airline's services and addressing customer needs effectively.</p>
 
 ### Analysis and Insights:
 
@@ -43,7 +44,7 @@ This task involves delving into the realm of predictive modelling to anticipate 
 
 
 ### Exploring and Preparing the Dataset:
-During this phase, the provided customer booking data is meticulously explored and prepared, laying the foundation for building a high-quality predictive model. Through thorough examination and manipulation of the dataset, key features and variables that significantly influence customer buying behaviour are identified. Additionally, consideration is given to creating new features to augment the predictive power of the model, thereby setting the stage for robust predictive analytics.
+<p style="text-align: justify;">During this phase, the provided customer booking data is meticulously explored and prepared, laying the foundation for building a high-quality predictive model. Through thorough examination and manipulation of the dataset, key features and variables that significantly influence customer buying behaviour are identified. Additionally, consideration is given to creating new features to augment the predictive power of the model, thereby setting the stage for robust predictive analytics.</p>
 
 ### Training a Machine Learning Model:
 With the dataset meticulously prepared, a machine learning model capable of predicting the target outcome is trained. Utilizing algorithms conducive to providing insights into variable contributions, such as RandomForest and Logistic regression to discern and interpret the underlying patterns and factors driving customer purchasing decisions.
